@@ -1,4 +1,4 @@
-# Ex.No:4E SEB - PET MOVEMENT
+# Ex.No:4E SEB - ARITHMETIC CALCULATION USING CLASS
 
 ## AIM  
 To Create a class named pet and method named move which will print the given animal is moving
